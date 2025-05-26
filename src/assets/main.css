@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'bromello';
+  src: url('../assets/fonts/bromello.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'adelia';
+  src: url('../assets/fonts/adelia.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'photograph';
+  src: url('../assets/fonts/photograph.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
