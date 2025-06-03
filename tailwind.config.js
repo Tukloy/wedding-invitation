@@ -7,6 +7,7 @@ export default {
         bromello: ['bromello', 'cursive'], // fallback to cursive
         adelia: ['adelia', 'cursive'],
         photograph: ['photograph-signature', 'cursive'],
+        cinzel: ['cinzel', 'serif'],
       },
       colors: {
         primary: '#4B5563',

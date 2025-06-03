@@ -7,5 +7,6 @@
     <p class="text-primary text-6xl font-bromello">Save the Date</p>
     <p class="text-primary text-6xl font-adelia">Save the Date</p>
     <p class="text-primary text-6xl font-photograph">Save the Date</p>
+    <p class="text-primary text-6xl font-cinzel">Save the Date</p>
   </div>
 </template>
